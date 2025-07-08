@@ -1,0 +1,1 @@
+python main.py --password "YOUR_KEYPASS_PASS" --file "YOUR_FILE_TO_KEYPASS_FILE" 
